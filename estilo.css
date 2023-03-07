@@ -241,17 +241,16 @@ body{
   max-width: 1000px;
 }
 
-//condicionales, se debe cumplir una sola:
 
 @media only screen and (max-width: 360px){
   body {
-  //configurar width
+  width:auto
  }
 }
 
 @media only screen (min-width: 361px) and (max-width: 500px){
  body{
-  //configurar width
+  width:
  }
 }
 
